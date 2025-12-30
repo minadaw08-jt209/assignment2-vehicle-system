@@ -60,8 +60,8 @@ java Main
 #### Project Structure
 ![Project Structure](docs/screenshots/structure.png)
 
-
-
+### UML Diagram
+![UML Diagram](docs/uml-diagram.png)
 
 ---
 
