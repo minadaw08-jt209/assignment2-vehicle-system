@@ -1,0 +1,8 @@
+# Intellij IDEA
+.idea/
+.run/
+*.iml
+
+# Build files
+out/
+*.class
