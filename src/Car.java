@@ -8,7 +8,7 @@ public class Car extends Vehicle {
         this.fuelType = fuelType;
     }
 
-    @Overrvide
+    @Override
     public void startEngine() {
         System.out.println("Car engine started.");
     }
